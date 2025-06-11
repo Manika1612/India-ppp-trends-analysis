@@ -9,6 +9,7 @@ This repository explores the evolution, patterns, and policy frameworks shaping 
 📘 Overview
 
 India’s infrastructure requirements are projected to exceed $1.4 trillion by 2040. In response, India has developed one of the world’s largest ecosystems for Public-Private Partnerships, spanning transportation, energy, urban services, digital infrastructure, and more.
+
 📊 Key Themes
 
 1. PPP Evolution in India
